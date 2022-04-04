@@ -1,8 +1,8 @@
 ## kode penjumlahan
 
 # Memasukkan Inputan Angka
-angka1 = input('Tulis angka pertama: ')
-angka2 = input('Tulis angka kedua: ')
+angka1 = input('Angka Berapa: ')
+angka2 = input('Di Tambah Berapa: ')
 
 # Mengkonversi Angka lalu Menjumlahkannya
 sum = int(angka1) + int(angka2)
